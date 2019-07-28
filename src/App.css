@@ -1,0 +1,38 @@
+.main-header {
+  display: flex;
+  justify-content: center;
+  background-color: #007bff;
+  color: floralwhite;
+  padding: 1em;
+}
+
+.list-body {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-width: 20em;
+  min-height: 10em;
+  background-color: rgba(222, 225, 227, 0.9);
+}
+
+.card-data-layout {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  word-break: break-all;
+}
+
+.edit-icon {
+  cursor: pointer;
+  color: grey;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
