@@ -1,4 +1,9 @@
+# React and Redux list making dashboard for the browser
+
+A list making dashboard using React and Redux similar to Trello
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Initial setup
 
 Have node and npm installed on your system. 
